@@ -1,0 +1,20 @@
+#wrap {
+	width: 1000px;
+}
+
+#chair { 
+	width: 10%;
+ }
+
+ #lamp {
+	width: 10%;
+ }
+
+ #apartment {
+	width: 10%;
+ }
+
+ #bg {
+	width: 10%;
+	z-index: -1;
+ }
